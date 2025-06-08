@@ -115,5 +115,4 @@ MIT License
 
 ---
 
-**Author:** [Your Name]  
-**Repository:** [GitHub Link]
+**Author:** Shashwat SIngh
